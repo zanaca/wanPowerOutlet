@@ -1,0 +1,11 @@
+oauth2client==1.5.2
+time
+sys
+serial
+os
+urllib2
+json
+datetime
+gspread
+logging
+
