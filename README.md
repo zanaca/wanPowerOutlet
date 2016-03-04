@@ -2,7 +2,7 @@
 
 It was inspired by the necessity of turning off my ISP modem for 10 seconds everytime a connection outage happened, I am using NetVirtua-RJ at the moment, one of the lowest quality ISP I have known. So I built a arduino powered outlet to monitor the connection and log the connectivity changes to to a Google Spreadsheet.
 
-You basicly needs:
+You basically needs:
 - Arduino (I use the nano version)
 - Power cord
 - USB 1.0 cable
