@@ -1,6 +1,6 @@
 # wanPowerOutlet
 
-It was inspired by the necessity of turning off my ISP modem for 10 seconds everytime a connection outage happened. So I built that arduino powered outlet to monitor the connection and send a report to a Google Spreadsheet logging the events of on/off connectivity.
+It was inspired by the necessity of turning off my ISP modem for 10 seconds everytime a connection outage happened, I am using NetVirtua-RJ at the moment, one of the lowest quality ISP I have known. So I built a arduino powered outlet to monitor the connection and log the connectivity changes to to a Google Spreadsheet.
 
 You basicly needs:
 - Arduino (I use the nano version)
