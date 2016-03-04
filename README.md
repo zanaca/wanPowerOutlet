@@ -12,4 +12,4 @@ If you have no spare time, or just like me, are lazy can you a use a photoswitch
 
 You connect the outlet to a computer USB port, and start a service on that computer to monitor the connection and manage the arduino.
 
-If you wan to log the events to google spreadsheet you should <a href="http://gspread.readthedocs.org/en/latest/oauth2.html">obtain OAuth2 credentials from Google Developers Console</a> first and get the json credentials.
+If you want to log the events to Google Spreadsheet you should <a href="http://gspread.readthedocs.org/en/latest/oauth2.html">obtain OAuth2 credentials from Google Developers Console</a> first, to get the json credentials, then you should create a spreadsheet on Google Spreadsheet to use it in your script.
